@@ -1,0 +1,25 @@
+.sidebar{height:70%;width:200px;background-color:#fff;position:fixed!important;z-index:1;overflow:auto}
+.mainbody{height:70%;width:350px;background-color:#fff;position:fixed!important;z-index:1;overflow:auto;float:right;background-color: white;right:0;display:block}
+.light-grey{color:#000!important;background-color:#f1f1f1!important}
+.button {background-color: white;border: none;color: black;text-align: center;text-decoration: none;font-size: 16px;margin: 4px 2px;cursor: pointer;display:block}
+.bar-item{padding:8px 16px;float:left;width:auto;border:none;outline:none;display:block}
+.footer{
+        background-color: #1A3333;
+	color: white;
+	text-align: center;
+	width:100%;
+	padding: 5px;
+	float: bottom;
+	position:fixed;
+        bottom:0;
+        padding:8px 16px;
+}
+
+
+        <h3>Introduction to equipment booking</h3>
+	<p> This site is to help you to book slot for the equipment available in the FACS and confocal lab</p>
+        <p> New users must enter your details and register your account</p>
+        <p> Old users can just login using their email id to book </p>
+        <P> Please select the machine in next page and then in its next page select date and time slot</p>
+        <p> After booking slot you will receive a mail regarding payment. Click the link and pay accordiingly</p>
+        <p> Once your payment is successful your slot will be booked and can be checked in previous bookings</p>
