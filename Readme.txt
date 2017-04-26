@@ -25,7 +25,7 @@ Descrition:
 
 2. How to test :
                  Note that a PC with atleast windows 7 is needed for testing.
-                 a. Install XAMPP which is included along with htdocs folder.
+                 a. Install XAMPP by downloading it from internet.
                  b. Copy htdocs folder into installed XAMPP folder and merge them.
                  c. Open XAMPP control panel and start apache and mysql.
                  d. Click on admin beside to start phpmyadmin(MySQL and database manager). Create new database in left panel and name it project and select it.
